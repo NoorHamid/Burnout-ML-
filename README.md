@@ -1,8 +1,7 @@
 
 # Burnout-ML-
 Burnout ML is a Python project for dealing with burnout in the workplace.
-https://gph.is/g/aN8Lrmo
-
+![alt text](https://media.giphy.com/media/QX15lZJbifeQPzcNDt/giphy.gif)
 
 ## Description
 This project utilizes a machine learning model to compile and analyze a variety of factors to predict burnout likelihood in certain individuals. 
