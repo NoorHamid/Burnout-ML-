@@ -1,6 +1,4 @@
 # Burnout-ML-
-# Burnout ML
-
 Burnout ML is a Python project for dealing with burnout in the workplace.
 
 ## Description
