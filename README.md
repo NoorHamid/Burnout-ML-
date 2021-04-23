@@ -3,7 +3,7 @@
 Burnout ML is a Python project for dealing with burnout in the workplace.
 
 
-<img src="https://media.giphy.com/media/QX15lZJbifeQPzcNDt/giphy.gif" width="120" height="220"/>
+<img src="https://media.giphy.com/media/QX15lZJbifeQPzcNDt/giphy.gif" width="140" height="220"/>
 
 
 ## Description
